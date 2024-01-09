@@ -108,7 +108,7 @@ section {
 }
 
 .party-section {
-  background-image: url(/img/Vectorrr.png);
+  background-image: url("../img/Vectorrr.png");
   background-repeat: no-repeat;
   background-position: bottom center;
   width: 1320px;
